@@ -11,7 +11,7 @@ namespace TEST_CI
 
         public static bool ErNulOgMindre(int a)
         {
-            if (a-10 <= 0)
+            if (a <= 0)
                 return true;
             else
                 return false;

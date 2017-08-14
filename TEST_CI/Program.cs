@@ -10,6 +10,10 @@ namespace TEST_CI
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine( Beregn.ErNulOgMindre(0));
+
+
         }
     }
 }

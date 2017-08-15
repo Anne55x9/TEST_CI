@@ -20,7 +20,12 @@ namespace TEST_CI
         public static bool ErNul(int a)
         {
             return true;
-        } 
+        }
+
+        public static bool ErIkkeNul(int a)
+        {
+            return false;
+        }
 
 
     }

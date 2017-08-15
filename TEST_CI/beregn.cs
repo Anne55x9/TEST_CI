@@ -17,6 +17,11 @@ namespace TEST_CI
                 return false;
         }
 
+        public static bool ErNul(int a)
+        {
+            return true;
+        } 
+
 
     }
 }

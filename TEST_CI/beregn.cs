@@ -27,6 +27,10 @@ namespace TEST_CI
             return false;
         }
 
+        public static bool ErMåskeNul(int a)
+        {
+            return false;
+        }
 
     }
 }
